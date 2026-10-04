@@ -1,0 +1,9 @@
+## Interface: 110207, 120100
+## Title: LockoutTracker
+## Notes: Track raid/dungeon lockouts and boss progress across all characters
+## Author: Faralaks
+## Version: 1.0
+## SavedVariables: LockoutTrackerDB
+
+Core.lua
+UI.lua

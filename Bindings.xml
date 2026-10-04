@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="LOCKOUTTRACKER_TOGGLE" header="LOCKOUTTRACKER" category="ADDONS">
+		LockoutTracker_ToggleUI()
+	</Binding>
+</Bindings>
